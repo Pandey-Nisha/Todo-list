@@ -16,5 +16,5 @@ A simple and interactive To-Do List website built using React.js. This applicati
 - **Deleting a Task**: Click the "Delete" button next to the task you want to remove.
 - **Editing Task**: Click on edit icon to make changes on any added task.
 
-:
+
 
